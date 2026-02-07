@@ -15,6 +15,10 @@
 - ✅ **All pairnig issue solved:** you don't see any pairnig issue
 - ✅ **Optimized Socket:** Faster connection and low-latency performance.
 - ✅ **Obfuscated Core:** Protected logic to prevent unauthorized code theft.
+- ✅ **Anti-ban:** I try to resolve ban issues and make it full Anti-ban
+- ✅ **Channel support:** all chats working even channels.
+- ✅ **JId support:** I try to resolve better JId
+- ✅ **latest balliyes:** I use latest balliyes for making more compatible.
 
 ---
 
@@ -23,4 +27,4 @@
 To use **FENRIR-X Baileys** in your project, update your `package.json` dependencies:
 
 ```json
-    "@whiskeysockets/baileys": "github:FENRIR-X/Fenrir-baileys",
+"@whiskeysockets/baileys": "github:FENRIR-X/Fenrir-baileys",
