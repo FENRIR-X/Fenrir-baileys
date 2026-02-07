@@ -12,8 +12,7 @@
 
 ## 🚀 Key Features
 - ✅ **Custom Pairing Code:** Force-set your brand name (e.g., FENRIRXT) as pairing code.
-- ✅ **Auto-Channel Join:** Automatically joins your official channel on connection.
-- ✅ **Anti-Unfollow System:** Persistent re-join logic if a user tries to unfollow.
+- ✅ **All pairnig issue solved:** you don't see any pairnig issue
 - ✅ **Optimized Socket:** Faster connection and low-latency performance.
 - ✅ **Obfuscated Core:** Protected logic to prevent unauthorized code theft.
 
@@ -24,6 +23,4 @@
 To use **FENRIR-X Baileys** in your project, update your `package.json` dependencies:
 
 ```json
-"dependencies": {
-    "@whiskeysockets/baileys": "github:FENRIR-X/Fenrir-baileys"
-}
+    "@whiskeysockets/baileys": "github:FENRIR-X/Fenrir-baileys",
