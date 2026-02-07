@@ -1,19 +1,19 @@
 {
-    "name": "dgxeon-soket",
+    "name": "fenrir-baileys",
     "version": "7.0.3",
-    "description": "Customised baileys by @dgxeon13",
+    "description": "Customised high-performance baileys by @FENRIR-X (Tayyab)",
     "keywords": [
         "whatsapp",
-        "xbugbot",
+        "fenrir-x",
         "baileys",
         "whatsapp-web",
         "whatsapp-chat",
         "whatsapp-group",
         "botwa",
-        "xeonbugbot"
+        "fenrir-bot"
     ],
     "license": "MIT",
-    "author": "dgxeon13",
+    "author": "Tayyab (FENRIR-X)",
     "type": "commonjs",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
